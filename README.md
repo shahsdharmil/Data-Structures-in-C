@@ -1,1 +1,1 @@
-# Data-Structures-in-C For Semester - 3
+# Data-Structures-in-C-language
